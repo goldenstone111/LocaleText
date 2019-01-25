@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Navin sharma\\AndroidStudioProjects\\LocaleText\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hi-rIN\\values-hi-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Navin sharma\\AndroidStudioProjects\\LocaleText\\app\\src\\main\\res\\values-hi-rIN\\strings.xml",
+                    "from": {
+                        "startLines": "6,3,9,21,18,12,15",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "282,157,398,1137,997,793,882",
+                        "endColumns": "44,47,322,93,103,52,54",
+                        "endOffsets": "322,200,716,1226,1096,841,932"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,99,147,470,564,668,721",
+                        "endColumns": "43,47,322,93,103,52,54",
+                        "endOffsets": "94,142,465,559,663,716,771"
+                    }
+                }
+            ]
+        }
+    ]
+}

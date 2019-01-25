@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- All comments are notes to translators. -->
+    <string name="app_name">LocaleText</string>
+
+    <!-- The Help option in the options menu, no more than 30 chars. -->
+    <string name="action_help" >مدد</string>
+
+    <!-- The description includes a parenthetical expression.  -->
+    <string name="description" translatable="false">
+نگت چینی یا شہد، برباد شدہ گری دار میوے (بادام، اخروٹ، پستے، ہیزلنٹ، اور ماکادامیا گری دار میوے عام) کے ساتھ بنا confections کا ایک خاندان ہے، جسے انڈے کے سفید، اور کبھی کبھی کینڈی پھل کا پھل کاٹتا ہے. یہ کینڈی کی سلاخوں اور چاکلیٹوں میں استعمال کیا جاتا ہے. </string>
+
+    <!-- The product name includes "Package" to define a pack.  -->
+    <string name="nougat">نگات کینڈی پیکیج</string>
+
+    <!-- Do not translate.  -->
+    <string name="support_phone">14155551212+</string>
+
+    <!-- Support Department should be capitalized.  -->
+    <string name="help_text">اگر آپ کی ضرورت ہو تو، ہمارے معاون محکمہ سے رابطہ کریں.</string>
+
+    <!-- Do not translate.  -->
+    <string name="dial_log_message">ACTION_DIAL توجہ کے لئے اے پی پی کو حل نہیں کر سکتا.</string>
+
+</resources>

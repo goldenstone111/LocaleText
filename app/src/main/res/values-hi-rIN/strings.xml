@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- All comments are notes to translators. -->
+    <string name="app_name">LocaleText</string>
+
+    <!-- The Help option in the options menu, no more than 30 chars. -->
+    <string name="action_help" >मदद</string>
+
+    <!-- The description includes a parenthetical expression.  -->
+    <string name="description" translatable="false">नौगेट चीनी या शहद, भुना हुआ पागल (बादाम, अखरोट, पिस्ता, हेज़लनट, और मैकाडामिया पागल आम हैं) से बने संक्रमणों का एक परिवार है, अंडा सफेद व्हीप्ड होता है, और कभी-कभी कटा हुआ कैन्डयुक्त फल होता है। इसका उपयोग विभिन्न प्रकार के कैंडी बार और चॉकलेट में किया जाता है।</string>
+
+    <!-- The product name includes "Package" to define a pack.  -->
+    <string name="nougat">नौगेट कैंडी पैकेज</string>
+
+    <!-- Do not translate.  -->
+    <string name="support_phone">+14155551212</string>
+
+    <!-- Support Department should be capitalized.  -->
+    <string name="help_text">अगर आपको मदद की ज़रूरत है, तो हमारे सहायता विभाग से संपर्क करें।.</string>
+
+    <!-- Do not translate.  -->
+    <string name="dial_log_message">ACTION_DIAL इरादे के लिए ऐप को हल नहीं कर सकता।.</string>
+
+</resources>

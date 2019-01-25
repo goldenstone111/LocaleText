@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Navin sharma\\AndroidStudioProjects\\LocaleText\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Navin sharma\\AndroidStudioProjects\\LocaleText\\app\\src\\main\\res\\values-ur\\strings.xml",
+                    "from": {
+                        "startLines": "6,3,9,22,19,13,16",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "282,157,398,1126,996,793,881",
+                        "endLines": "6,3,10,22,19,13,16",
+                        "endColumns": "44,47,268,97,93,51,54",
+                        "endOffsets": "322,200,716,1219,1085,840,931"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,99,147,469,567,661,713",
+                        "endLines": "2,3,5,6,7,8,9",
+                        "endColumns": "43,47,268,97,93,51,54",
+                        "endOffsets": "94,142,464,562,656,708,763"
+                    }
+                }
+            ]
+        }
+    ]
+}

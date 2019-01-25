@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- All comments are notes to translators. -->
+    <string name="app_name">LocaleText</string>
+
+    <!-- The Help option in the options menu, no more than 30 chars. -->
+    <string name="action_help" >Aidez-moi</string>
+
+    <!-- The description includes a parenthetical expression.  -->
+    <string name="description" translatable="false">Le nougat est une famille de confiseries à base de sucre ou de miel, de noix grillées (amandes, noix, pistaches, noisettes et noix de macadam), de blancs d'œufs battus et parfois de fruits confits hachés. Il est utilisé dans une variété de friandises et de chocolats.
+. </string>
+
+    <!-- The product name includes "Package" to define a pack.  -->
+    <string name="nougat">Paquet de bonbons au nougat</string>
+
+    <!-- Do not translate.  -->
+    <string name="support_phone">+14155551212</string>
+
+    <!-- Support Department should be capitalized.  -->
+    <string name="help_text">Si vous avez besoin d\'aide, contactez notre service d'assistance.</string>
+
+    <!-- Do not translate.  -->
+    <string name="dial_log_message">Ne peut pas résoudre l\'application pour ACTION_DIAL Intent..</string>
+
+</resources>

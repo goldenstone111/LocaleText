@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:17:1-46:12
+INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:17:1-46:12
+INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:17:1-46:12
+INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:17:1-46:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c5e390f1771e6da3173e848486c4b1b9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\601dd6d1cdb93488a1fa36f7ee5ff22c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fbde490179b67a046bb9e1b3e854d09c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\793e467aae922ea8efe2f2f87f45e2d7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fca40ee6ba48146a3c48d3613a964607\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\a37f072466ee5812d37a724473800539\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\a8c117172c413224fda8841665f8e7ee\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\1cef00f58444cd2f7cbf5724a6cc33b9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c9da1e49e624e8e0f08f23e8c50d2524\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\57b05b26f1434a026ab3533349172cae\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\beda16e7a1d66a93914944578d1fa3d7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5cbcd3462ccc84aac4abbfb125a0ec32\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\5ea1389dda8935e9c7c634b47fad030d\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:17:1-46:12
+INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:17:1-46:12
+INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:17:1-46:12
+	package
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:18:5-45
+		INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:17:1-46:12
+		INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:17:1-46:12
+		INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:20:5-44:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c5e390f1771e6da3173e848486c4b1b9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c5e390f1771e6da3173e848486c4b1b9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\601dd6d1cdb93488a1fa36f7ee5ff22c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\601dd6d1cdb93488a1fa36f7ee5ff22c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fbde490179b67a046bb9e1b3e854d09c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fbde490179b67a046bb9e1b3e854d09c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\793e467aae922ea8efe2f2f87f45e2d7\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\793e467aae922ea8efe2f2f87f45e2d7\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fca40ee6ba48146a3c48d3613a964607\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fca40ee6ba48146a3c48d3613a964607\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\a8c117172c413224fda8841665f8e7ee\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\a8c117172c413224fda8841665f8e7ee\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\1cef00f58444cd2f7cbf5724a6cc33b9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\1cef00f58444cd2f7cbf5724a6cc33b9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c9da1e49e624e8e0f08f23e8c50d2524\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c9da1e49e624e8e0f08f23e8c50d2524\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\57b05b26f1434a026ab3533349172cae\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\57b05b26f1434a026ab3533349172cae\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\beda16e7a1d66a93914944578d1fa3d7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\beda16e7a1d66a93914944578d1fa3d7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5cbcd3462ccc84aac4abbfb125a0ec32\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5cbcd3462ccc84aac4abbfb125a0ec32\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\5ea1389dda8935e9c7c634b47fad030d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\5ea1389dda8935e9c7c634b47fad030d\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:26:9-40
+activity#com.example.android.localetext.MainActivity
+ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:34:27-74
+activity#com.example.android.localetext.HelpActivity
+ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:37:9-43:20
+	android:parentActivityName
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:39:13-55
+	android:label
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:38:13-48
+	android:name
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:37:19-47
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:40:13-42:49
+	android:value
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:42:17-46
+	android:name
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml:41:17-63
+uses-sdk
+INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c5e390f1771e6da3173e848486c4b1b9\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c5e390f1771e6da3173e848486c4b1b9\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\601dd6d1cdb93488a1fa36f7ee5ff22c\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\601dd6d1cdb93488a1fa36f7ee5ff22c\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fbde490179b67a046bb9e1b3e854d09c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fbde490179b67a046bb9e1b3e854d09c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\793e467aae922ea8efe2f2f87f45e2d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\793e467aae922ea8efe2f2f87f45e2d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fca40ee6ba48146a3c48d3613a964607\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fca40ee6ba48146a3c48d3613a964607\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\a37f072466ee5812d37a724473800539\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\a37f072466ee5812d37a724473800539\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\a8c117172c413224fda8841665f8e7ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\a8c117172c413224fda8841665f8e7ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\1cef00f58444cd2f7cbf5724a6cc33b9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\1cef00f58444cd2f7cbf5724a6cc33b9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c9da1e49e624e8e0f08f23e8c50d2524\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c9da1e49e624e8e0f08f23e8c50d2524\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\57b05b26f1434a026ab3533349172cae\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\57b05b26f1434a026ab3533349172cae\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\beda16e7a1d66a93914944578d1fa3d7\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\beda16e7a1d66a93914944578d1fa3d7\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5cbcd3462ccc84aac4abbfb125a0ec32\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5cbcd3462ccc84aac4abbfb125a0ec32\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\5ea1389dda8935e9c7c634b47fad030d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\5ea1389dda8935e9c7c634b47fad030d\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c5e390f1771e6da3173e848486c4b1b9\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Navin sharma\AndroidStudioProjects\LocaleText\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c5e390f1771e6da3173e848486c4b1b9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\601dd6d1cdb93488a1fa36f7ee5ff22c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\601dd6d1cdb93488a1fa36f7ee5ff22c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\793e467aae922ea8efe2f2f87f45e2d7\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\793e467aae922ea8efe2f2f87f45e2d7\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fca40ee6ba48146a3c48d3613a964607\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fca40ee6ba48146a3c48d3613a964607\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\a37f072466ee5812d37a724473800539\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\a37f072466ee5812d37a724473800539\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\a8c117172c413224fda8841665f8e7ee\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\a8c117172c413224fda8841665f8e7ee\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\1cef00f58444cd2f7cbf5724a6cc33b9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\1cef00f58444cd2f7cbf5724a6cc33b9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c9da1e49e624e8e0f08f23e8c50d2524\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c9da1e49e624e8e0f08f23e8c50d2524\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\57b05b26f1434a026ab3533349172cae\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\57b05b26f1434a026ab3533349172cae\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\beda16e7a1d66a93914944578d1fa3d7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\beda16e7a1d66a93914944578d1fa3d7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5cbcd3462ccc84aac4abbfb125a0ec32\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5cbcd3462ccc84aac4abbfb125a0ec32\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\5ea1389dda8935e9c7c634b47fad030d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\5ea1389dda8935e9c7c634b47fad030d\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c5e390f1771e6da3173e848486c4b1b9\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Navin sharma\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c5e390f1771e6da3173e848486c4b1b9\AndroidManifest.xml:26:9-47
